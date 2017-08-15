@@ -1,0 +1,59 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon_beaker {
+    width: 23px;
+    height: 56px;
+    background-position: -20px -20px;
+}
+
+.sprite-icon_boln_list {
+    width: 50px;
+    height: 32px;
+    background-position: -83px -20px;
+}
+
+.sprite-icon_card {
+    width: 37px;
+    height: 49px;
+    background-position: -173px -20px;
+}
+
+.sprite-icon_doctor {
+    width: 41px;
+    height: 52px;
+    background-position: -250px -20px;
+}
+
+.sprite-icon_parents {
+    width: 40px;
+    height: 52px;
+    background-position: -331px -20px;
+}
+
+.sprite-icon_research {
+    width: 55px;
+    height: 52px;
+    background-position: -411px -20px;
+}
+
+.sprite-icon_screening {
+    width: 53px;
+    height: 53px;
+    background-position: -506px -20px;
+}
+
+.sprite-icon_spec {
+    width: 47px;
+    height: 56px;
+    background-position: -599px -20px;
+}
+
+.sprite-icon_usi {
+    width: 52px;
+    height: 52px;
+    background-position: -686px -20px;
+}

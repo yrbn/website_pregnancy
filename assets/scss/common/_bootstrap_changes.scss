@@ -1,0 +1,29 @@
+.container {
+  padding: 0;
+}
+
+.table-striped > tbody > tr:nth-of-type(even),
+.table-striped > thead > tr {
+    background-color: #bad7eb;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: transparent;
+}
+
+.table > thead > tr > th {
+	border: 0;
+	font-weight: 600;
+}
+
+.table > tbody > tr > td {
+	border: 0;
+}
+
+.panel {
+	margin-bottom: 0; 
+    background-color: inherit; 
+    border: 0; 
+    border-radius: 0; 
+    box-shadow: none; 
+}
